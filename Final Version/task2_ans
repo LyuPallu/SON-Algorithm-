@@ -1,0 +1,17 @@
+Candidates:
+('AB'),('AZ'),('IL'),('NC'),('NV'),('OH'),('ON'),('PA'),('QC'),('SC'),('TX'),('WI')
+
+('AB', 'AZ'),('AB', 'NV'),('AB', 'OH'),('AB', 'ON'),('AB', 'PA'),('AB', 'QC'),('AZ', 'IL'),('AZ', 'NC'),('AZ', 'NV'),('AZ', 'OH'),('AZ', 'ON'),('AZ', 'PA'),('AZ', 'QC'),('AZ', 'SC'),('AZ', 'TX'),('AZ', 'WI'),('IL', 'NV'),('IL', 'OH'),('IL', 'WI'),('NC', 'NV'),('NC', 'OH'),('NC', 'ON'),('NC', 'PA'),('NC', 'QC'),('NC', 'SC'),('NC', 'WI'),('NV', 'OH'),('NV', 'ON'),('NV', 'PA'),('NV', 'QC'),('NV', 'SC'),('NV', 'TX'),('NV', 'WI'),('OH', 'ON'),('OH', 'PA'),('OH', 'QC'),('OH', 'WI'),('ON', 'PA'),('ON', 'QC'),('ON', 'WI'),('PA', 'QC'),('PA', 'WI'),('QC', 'WI')
+
+('AB', 'AZ', 'NV'),('AB', 'NV', 'ON'),('AB', 'NV', 'QC'),('AB', 'ON', 'QC'),('AZ', 'NC', 'NV'),('AZ', 'NC', 'OH'),('AZ', 'NC', 'ON'),('AZ', 'NC', 'PA'),('AZ', 'NV', 'OH'),('AZ', 'NV', 'ON'),('AZ', 'NV', 'PA'),('AZ', 'NV', 'QC'),('AZ', 'NV', 'TX'),('AZ', 'NV', 'WI'),('AZ', 'OH', 'ON'),('AZ', 'OH', 'PA'),('AZ', 'ON', 'PA'),('AZ', 'ON', 'QC'),('NC', 'NV', 'OH'),('NC', 'NV', 'ON'),('NC', 'NV', 'PA'),('NC', 'NV', 'QC'),('NC', 'NV', 'SC'),('NC', 'OH', 'PA'),('NV', 'OH', 'ON'),('NV', 'OH', 'PA'),('NV', 'OH', 'QC'),('NV', 'OH', 'WI'),('NV', 'ON', 'PA'),('NV', 'ON', 'QC'),('NV', 'PA', 'QC'),('NV', 'PA', 'WI'),('OH', 'ON', 'PA'),('OH', 'ON', 'QC'),('ON', 'PA', 'QC')
+
+('AZ', 'NV', 'ON', 'QC')
+
+ Frequent Itemsets:
+('AB'),('AZ'),('IL'),('NC'),('NV'),('OH'),('ON'),('PA'),('QC'),('SC'),('TX'),('WI')
+
+('AB', 'AZ'),('AB', 'NV'),('AB', 'ON'),('AB', 'PA'),('AB', 'QC'),('AZ', 'IL'),('AZ', 'NC'),('AZ', 'NV'),('AZ', 'OH'),('AZ', 'ON'),('AZ', 'PA'),('AZ', 'QC'),('AZ', 'SC'),('AZ', 'TX'),('AZ', 'WI'),('IL', 'NV'),('IL', 'OH'),('IL', 'WI'),('NC', 'NV'),('NC', 'OH'),('NC', 'ON'),('NC', 'PA'),('NC', 'QC'),('NC', 'SC'),('NC', 'WI'),('NV', 'OH'),('NV', 'ON'),('NV', 'PA'),('NV', 'QC'),('NV', 'SC'),('NV', 'TX'),('NV', 'WI'),('OH', 'ON'),('OH', 'PA'),('OH', 'QC'),('OH', 'WI'),('ON', 'PA'),('ON', 'QC'),('ON', 'WI'),('PA', 'QC'),('PA', 'WI'),('QC', 'WI')
+
+('AB', 'AZ', 'NV'),('AB', 'NV', 'ON'),('AB', 'NV', 'QC'),('AB', 'ON', 'QC'),('AZ', 'NC', 'NV'),('AZ', 'NC', 'OH'),('AZ', 'NC', 'PA'),('AZ', 'NV', 'OH'),('AZ', 'NV', 'ON'),('AZ', 'NV', 'PA'),('AZ', 'NV', 'QC'),('AZ', 'NV', 'WI'),('AZ', 'OH', 'ON'),('AZ', 'OH', 'PA'),('AZ', 'ON', 'PA'),('AZ', 'ON', 'QC'),('NC', 'NV', 'OH'),('NC', 'NV', 'ON'),('NC', 'NV', 'PA'),('NC', 'NV', 'QC'),('NC', 'NV', 'SC'),('NC', 'OH', 'PA'),('NV', 'OH', 'ON'),('NV', 'OH', 'PA'),('NV', 'OH', 'QC'),('NV', 'OH', 'WI'),('NV', 'ON', 'PA'),('NV', 'ON', 'QC'),('NV', 'PA', 'QC'),('OH', 'ON', 'PA'),('OH', 'ON', 'QC'),('ON', 'PA', 'QC')
+
+('AZ', 'NV', 'ON', 'QC')
